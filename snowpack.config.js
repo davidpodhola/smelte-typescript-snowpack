@@ -1,5 +1,6 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 module.exports = {
+    exclude: ['**/node_modules/**/*', '**/stories/**/*'],
     mount: {
         public: { url: '/', static: true },
         src: { url: '/dist' },
