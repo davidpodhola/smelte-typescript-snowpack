@@ -27,6 +27,10 @@ Builds a static copy of your site to the `build/` folder. Your app is ready to b
 
 Serve the built (yarn build) version of your site at localhost:5000
 
+### yarn storybook
+
+Serve the storybook at localhost:6006
+
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
