@@ -1,4 +1,4 @@
-# Svelte boilerplate project with Typescript, Smelte, Snowpack, Tailwind
+# Svelte boilerplate project with Typescript, Smelte, Snowpack, Tailwind, Storybook
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
